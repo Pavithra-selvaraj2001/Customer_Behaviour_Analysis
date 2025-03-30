@@ -16,6 +16,30 @@ The business needs a data-driven approach using SQL and Python to analyze:
 
 **Product & demographic analysis** → Identify high-performing products and customer segments.
 
+**Technical Tags:**
+
+SQL 
+
+Python
+
+CSV Handling
+
+Data Cleaning
+
+Database Queries
+
+Customer Behavior
+
+Data Transformation 
+
+SQL Joins
+
+Window Functions
+
+CTEs
+
+Basic Sentiment Analysis
+
 **Approach**
 
 **Data Ingestion**: Download customer-related data, convert CSVs into SQL tables, and automate insertion using Python (pandas, MySQL-connector).
